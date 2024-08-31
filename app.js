@@ -6,7 +6,7 @@ const readline = require("readline");
 
 let i = 0
 const platoboost = "https://gateway.platoboost.com/a/8?id=";
-const discordWebhookUrl = "";
+const discordWebhookUrl = ""; //Điền Webhook Để Báo Nếu Dính Captcha
 
 function timeConvert(n) {
   var num = n;
