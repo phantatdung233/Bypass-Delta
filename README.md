@@ -4,7 +4,7 @@ Cách dùng:
 2. Vô CMD hoặc Powershell chạy lệnh
 `npm install node-fetch@2`
 3. Vào thư mục chứa File và chạy
-`node app.js`
+   `node app.js`
 
 - Android:
-Dùng termux, tự tìm hiểu...
+  Dùng termux, tự tìm hiểu...
