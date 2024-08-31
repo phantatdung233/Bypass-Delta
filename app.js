@@ -6,7 +6,7 @@ const readline = require("readline");
 
 let i = 0
 const platoboost = "https://gateway.platoboost.com/a/8?id=";
-const discordWebhookUrl = "https://discord.com/api/webhooks/1279089337371328542/eIBLVasJtW4i9CDzZ27RCVH1MSGVtzoMJyqPdi7xr2DQFPFyLpv8sox3lUUT_DL-ESiV";
+const discordWebhookUrl = "";
 
 function timeConvert(n) {
   var num = n;
