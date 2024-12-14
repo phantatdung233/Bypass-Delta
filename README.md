@@ -1,3 +1,4 @@
+# Đã Bị Fix
 # Cách dùng:
 ### Browser:
 + Tải Extension Tempermonkey sau đó add script `tempermonkey.js` vào và bật lên, khi truy cập vào link nó sẽ tự vượt
